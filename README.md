@@ -1,6 +1,6 @@
 # Spring Boot Product Management API
 
-This project implements a Spring Boot application to manage product inventory, including updating stock quantities and calculating the total price of a product using Store Procedure. Additionally, it integrates stored procedures and Swagger API documentation.
+This project implements a Spring Boot application to manage product inventory, including updating stock quantities and calculating the total price of a product. Additionally, it integrates stored procedures and Swagger API documentation.
 
 ---
 
